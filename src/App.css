@@ -1,0 +1,16 @@
+.app-wrapper {
+  display: grid;
+  width: 1050px;
+  grid-template-rows: 60px 8fr;
+  grid-template-columns: 150px 4fr;
+  grid-gap: 1px;
+}
+
+.app-wrapper-content {
+  
+    background-color: darkcyan;
+  
+}
+
+
+
