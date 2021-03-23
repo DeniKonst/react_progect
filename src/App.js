@@ -10,6 +10,7 @@ import Setting from "./Components/Setting/Setting";
 import { BrowserRouter, Route } from "react-router-dom";
 
 const App = (prop) => {
+  
   return (
     <BrowserRouter>
       <div className="app-wrapper">
